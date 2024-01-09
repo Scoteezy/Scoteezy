@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer/Looking for a job
 -------------------------------
 
-I love code!!
+Love coding, bananas and cats
 
 * 🌍  I'm based in Rostov-on-Don
 * 🖥️  See my portfolio at [My website](http://3d-portfolio-virid-pi.vercel.app/)
