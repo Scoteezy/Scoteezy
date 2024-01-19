@@ -9,7 +9,7 @@ Love coding, bananas and cats
 * 🌍  I'm based in Rostov-on-Don
 * 🖥️  See my portfolio at [My website](http://3d-portfolio-virid-pi.vercel.app/)
 * ✉️  You can contact me at [scoteeezy@gmail.com](mailto:scoteeezy@gmail.com)
-* 🚀  I'm currently working on [FinSculpt](http://https://github.com/Scoteezy/FinSculpt)
+* 🚀  I'm currently working on [FinSculpt](https://github.com/Scoteezy/FinSculpt)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Full-Stack/Front-end projects
 
